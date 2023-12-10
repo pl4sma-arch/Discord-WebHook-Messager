@@ -14,4 +14,4 @@ But if you don't know how to make a webhook:
    - Copy the URL and insert it in this tool!
 
 Have a good day by Primex (user: celestial_ontopx)
-   Server discord --> https://discord.gg/W43Vsxdm <
+   Server discord --> https://discord.gg/W6xSACjFX6 <--
