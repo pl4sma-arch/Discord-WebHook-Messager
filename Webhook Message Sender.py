@@ -1,3 +1,4 @@
+import dhooks
 from dhooks import Webhook
 import colorama
 from colorama import Fore
