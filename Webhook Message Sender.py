@@ -1,4 +1,4 @@
-from dhooks import Webhook, File
+from dhooks import Webhook
 import colorama
 from colorama import Fore
 colorama.init()
