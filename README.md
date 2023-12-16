@@ -9,7 +9,7 @@ But if you don't know how to make a webhook:
    - Go to setting
    - Select "Integrations"
    - Open "Webhooks"
-   - Create a new one (Personalize it how you want)
+   - Create a new one (Customize it how you want)
    - Select the channel you want the Webhook to send the message
    - Copy the URL and insert it in this tool!
 
