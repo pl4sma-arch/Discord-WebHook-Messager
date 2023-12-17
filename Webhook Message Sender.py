@@ -19,7 +19,7 @@ def start():
 
    webhook_link = input(Fore.GREEN + "Enter the webhook URL > ")
    
-   data1 = input(Fore.GREEN + "messaggio > ")
+   data1 = input(Fore.GREEN + "Messagge > ")
 
    hook = Webhook(webhook_link)
    hook.send(f"{data1}")
