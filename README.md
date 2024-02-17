@@ -13,5 +13,5 @@ But if you don't know how to make a webhook:
    - Select the channel you want the Webhook to send the message
    - Copy the URL and insert it in this tool!
 
-Have a good day by Primex (user: celestial_ontopx)
-   Server discord --> https://discord.gg/W6xSACjFX6 <--
+Have a good day by Primex (user:)
+   My server [discord](https://discord.gg/mF3ys8GQ5a)
