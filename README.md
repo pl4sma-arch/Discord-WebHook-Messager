@@ -14,4 +14,3 @@ But if you don't know how to make a webhook:
    - Copy the URL and insert it in this tool!
 
 Have a good day by Primex (user:)
-   My server [discord](https://discord.gg/mF3ys8GQ5a)
